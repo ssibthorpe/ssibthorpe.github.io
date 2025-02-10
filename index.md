@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "blog"
+title: "Blog"
 ---
-
 im a young professional who graduated from finance. yadda yadda
