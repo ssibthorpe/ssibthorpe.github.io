@@ -4,9 +4,10 @@ title: "My CV"
 permalink: /cv/
 ---
 
+<div align="center">
 # Sebastien Sibthorpe  
-**1450 René-Levesque Blvd, Montréal, QC**  
- Sebastien.Sibthorpe@gmail.com |  438.501.0837  
+Sebastien.Sibthorpe@gmail.com |  438.501.0837  
+</div> 
 
 ---
 
