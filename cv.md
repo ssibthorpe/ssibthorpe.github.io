@@ -3,7 +3,7 @@ layout: default
 title: "My CV"
 permalink: /cv/
 ---
-
+[Download Full CV (PDF)](/S_Sibthorpe_CV.pdf)
 <div align="center">
 <h1> Sebastien Sibthorpe </h1>
   <strong> Sebastien.Sibthorpe@gmail.com |  438.501.0837</strong>
@@ -54,6 +54,4 @@ permalink: /cv/
 - **Languages:** French (bilingual), English (mother tongue).  
 - **Modelling:** Completed 3-day Marquee Modelling course via PSP Investments.  
 - **Computer:** Proficient in Microsoft Office, CapitalIQ; minor proficiency in Bloomberg.  
-- **Certification:** Bloomberg Certification, CFA Level I Candidate *(May 2025 Exam)*.  
-
-[Download Full CV (PDF)](/S_Sibthorpe_CV.pdf)  
+- **Certification:** Bloomberg Certification, CFA Level I Candidate *(May 2025 Exam)*.    
