@@ -5,12 +5,10 @@ permalink: /cv/
 ---
 
 <div align="center">
-# Sebastien Sibthorpe  
+<h1> Sebastien Sibthorpe </h1>
+  <strong> Sebastien.Sibthorpe@gmail.com |  438.501.0837</strong>
 </div> 
 
-<div align="center">
-Sebastien.Sibthorpe@gmail.com |  438.501.0837  
-</div> 
 ---
 
 ## Work Experience  
