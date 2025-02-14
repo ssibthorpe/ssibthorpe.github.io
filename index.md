@@ -9,7 +9,8 @@ I'm writing this blog to help inform canadians on pertinent news that will direc
 **Causes I champion:**
 - Increased equality
 - Reduced zoning laws to improve dencity
-- Financial literacy.
+- Financial literacy
+- Environmental protection
 
 **Issues I plan on exploring**
 - Housing affordability
