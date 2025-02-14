@@ -22,7 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Sebastien.sibthorpe@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ssibthorpe"}
-  - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/sebastien-sibthorpe"}
+  - {title: Linkedin, icon: Linkedin, url: "https://github.com/ssibthorpe"}
+  - {title: linkedin, icon: github, url: "https://www.linkedin.com/in/sebastien-sibthorpe"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
