@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:Sebastien.sibthorpe@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ssibthorpe"}
   - {title: Linkedin, icon: Linkedin, url: "https://github.com/ssibthorpe"}
-  - {title: linkedin, icon: github, url: "https://www.linkedin.com/in/sebastien-sibthorpe"}
+  - {title: linkedin, icon: <i class="fa-brands fa-linkedin"></i>, url: "https://www.linkedin.com/in/sebastien-sibthorpe"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
