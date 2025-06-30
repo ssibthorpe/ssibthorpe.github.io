@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -28,10 +27,10 @@
 </head>
 <body>
 
-  <h1>Law 25 Compliance Kit (Beta)</h1>
+  <h1>Law 25 Compliance Kit</h1>
 
   <p>
-    If you're a startup or small business in Quebec, <strong>Law 25 applies to you</strong>. But hiring a lawyer or consultant can cost thousands—and slow your team down.
+    If you're a startup or small business in Quebec, Law 25 applies to you. But hiring a lawyer or traditional consultant from a big firm can cost thousands and slow your team down.
   </p>
 
   <h2>What You Get</h2>
@@ -39,13 +38,12 @@
     <li>Bilingual privacy policy template (English + French)</li>
     <li>Consent management checklist</li>
     <li>Privacy Impact Assessment (PIA) worksheet</li>
-    <li>Clear internal instructions for solo founders or lean ops teams</li>
-    <li>Optional: live compliance walkthrough (add-on)</li>
+    <li>Clear internal instructions for small businesses with lean ops teams</li>
   </ul>
 
-  <h2>Built for Quebec Startups</h2>
+  <h2>Built for Quebec Startups and small businesses</h2>
   <p>
-    I’m Sebastien, a compliance specialist building a no-fluff toolkit to help early-stage teams get Law 25-ready—fast, cheap, and without legal headaches.
+    I’m a compliance and risk specialist building a no-fluff toolkit to help early-stage teams get Law 25-ready—fast, cheap, and without legal headaches.
   </p>
 
   <h2>Want a Preview?</h2>
