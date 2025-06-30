@@ -1,57 +1,68 @@
----
-layout: default
-title: "My CV"
-permalink: /cv/
----
-[Download Full CV (PDF)](/S_Sibthorpe_CV.pdf)
-<div align="center">
-<h1> Sebastien Sibthorpe </h1>
-  <strong> Sebastien.Sibthorpe@gmail.com |  438.501.0837</strong>
-</div> 
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Why You Should Trust Me</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1, h2 {
+      margin-bottom: 0.5em;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
 
----
+  <h1>Why You Should Trust Me</h1>
 
-## Work Experience  
-### BDO Canada, Montreal, Canada  
-**Consultant, Risk Advisory Services** *(January 2023 - Present)*  
-- Conducted risk assessments to identify key vulnerabilities and implemented mitigation strategies.  
-- Developed fair market value models and valuation reports for small businesses, including real estate.  
-- Performed fair market value analyses and created PowerPoint decks.  
-- Implemented control measures that helped clients reduce vulnerabilities.  
-- Designed VBA solutions to analyze client GHG emissions.  
+  <p>
+    I'm Sebastien Sibthorpe. I specialize in audit and compliance, with hands-on experience helping small and medium organizations in Quebec navigate risk, regulation, and operational controls.
+  </p>
 
----
+  <p>
+    I built this Law 25 Compliance Kit because I’ve seen how unclear, expensive, and over-complicated compliance has become—especially for startups and SMEs that can’t afford a law firm or consulting package.
+  </p>
 
-## Education  
-### Concordia University – John Molson School of Business, Montreal, Canada  
-**Bachelor of Commerce, Major Finance** *(September 2021 - August 2024)*  
-- Cumulative GPA: 2.89/4.3  
-- Recipient of the St Andrews Society of Montreal Bursary and JMSB Competition Bursary.  
-- Relevant coursework: M&A, Sustainable Investments, Investment Analysis.  
+  <p>
+    My goal is to give you a practical, no-BS, bilingual toolkit that helps you check the Law 25 box and get back to building.
+  </p>
 
-### John Abbott College, Montreal, Canada  
-**Diploma of Collegial Studies in Social Sciences** *(September 2018 - May 2020)*  
+  <h2>Relevant Experience</h2>
 
----
+  <p><strong>Consultant, Risk Advisory Services (Jan 2023 – Present)</strong></p>
+  <ul>
+    <li>Conducted risk assessments for government and SME clients to identify key control gaps and vulnerabilities.</li>
+    <li>Designed mitigation strategies and implemented effective internal controls.</li>
+    <li>Developed fair market value models and valuation reports for small businesses, including real estate portfolios.</li>
+    <li>Produced detailed valuation decks and decision-ready presentations for clients and stakeholders.</li>
+    <li>Built VBA automation tools to analyze client GHG emissions for ESG reporting frameworks.</li>
+  </ul>
 
-## Leadership & Competitions  
-### Real Estate Games  
-- Won second place in the Advanced division.  
-- Performed financial analysis and valuation for developments in Pointe-Claire.  
+  <h2>Certifications & Background</h2>
+  <ul>
+    <li>Bachelor’s Degree in Finance, Concordia University</li>
+    <li>CFA Level I Candidate</li>
+    <li>Bilingual – Fluent in English and French</li>
+  </ul>
 
-### John Molson Competition Committee (JMCC)  
-- Selected for the 2023/2024 JDC competition in entrepreneurship.  
-- Conducted in-depth financial analysis and created pitch decks.  
+  <p>
+    <a href="index.html">← Back to Home</a>
+  </p>
 
-### John Molson Accounting Society (JMAS)  
-**Director of Events**  
-- Managed large-scale events for up to 450 participants.  
-- Oversaw a six-figure budget.  
-
----
-
-## Other Information  
-- **Languages:** French (bilingual), English (mother tongue).  
-- **Modelling:** Completed 3-day Marquee Modelling course via PSP Investments.  
-- **Computer:** Proficient in Microsoft Office, CapitalIQ; minor proficiency in Bloomberg.  
-- **Certification:** Bloomberg Certification, CFA Level I Candidate *(May 2025 Exam)*.    
+</body>
+</html>
