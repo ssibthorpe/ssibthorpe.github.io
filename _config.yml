@@ -1,4 +1,4 @@
-title: "Sebs blog about finance and economics"
+title: "Law 25 Compliance Kit for Quebec Startups"
 author: "Sebastien Sibthorpe"
 description: "Based in Montreal"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "cv.md"}
+  - {title: "why you should trust me", file: "cv.md"}
   - {title: "Blog", file: "blog.md"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
