@@ -39,7 +39,7 @@
   </p>
 
   <p>
-    My goal is to give you a practical, no-BS, bilingual toolkit that helps you check the Law 25 box and get back to building.
+    My goal is to give you a practical, applicable, bilingual toolkit that helps you check the Law 25 box and get back to building.
   </p>
 
   <h2>Relevant Experience</h2>
@@ -56,7 +56,6 @@
   <h2>Certifications & Background</h2>
   <ul>
     <li>Bachelor’s Degree in Finance, Concordia University</li>
-    <li>CFA Level I Candidate</li>
     <li>Bilingual – Fluent in English and French</li>
   </ul>
 
